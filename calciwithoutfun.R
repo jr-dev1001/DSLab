@@ -1,0 +1,12 @@
+#input from the user
+print("select the following operation")
+print("1.ADD")
+print("2.subtract")
+print("3.multiply")
+print("4.divide")
+choice<-as.integer(readline(prompt="enter your choice: "))
+num1<-as.double(readline(prompt="enter first number: "))
+num2<-as.double(readline(prompt="enter second number: "))
+operator<-switch(ch,"+","-","*","/")
+result<-switch(choice,(num+num2),(num1-num2),(num1*num2),(num1/num2))
+print(paste(num1,operator,num2,"=",result))
