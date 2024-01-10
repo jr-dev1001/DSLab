@@ -15,9 +15,7 @@ The Data Science Lab is a collection of exercises, experiments, and projects tha
 - **Hands-on Learning:** This repository is a testament to my hands-on approach to learning. Each folder and file represents a step in the learning process, from basic concepts to the initial practical applications.
 
 - **Project Structure:**
-  - `Exercises`: A collection of hands-on exercises to grasp essential data science concepts.
   - `Projects`: Small-scale projects that demonstrate the application of learned techniques.
-  - `Resources`: Reference materials, datasets, and other resources used in the lab.
 
 ## Getting Started
 
